@@ -11,9 +11,7 @@
 ### 👨‍💻 About Me
 
 <div align="center">
-  <a href="https://github.com/Simaaqmoideen">
-    <img src="https://streak-stats.demolab.com?user=Simaaqmoideen&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Simaaqmoideen&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&area_color=36BCF7" width="100%" alt="Contribution Activity Graph" />
 </div>
 <br>
 
