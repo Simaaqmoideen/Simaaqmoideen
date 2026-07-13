@@ -3,14 +3,17 @@
 </div>
 
 <div align="center">
-  <p align="center">
-    <strong>A passionate Full-Stack Developer & AI Enthusiast 🚀</strong>
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+👨‍💻;AI+Enthusiast+🚀;Building+Intelligent+Web+Apps+✨" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 👨‍💻 About Me
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/7ymex/github-readme-quotes/main/quotes/programming/4.svg" width="100%"/>
+</div>
+<br>
 
 - 🔭 I’m currently building exciting projects at the intersection of **Artificial Intelligence** and **Web Development**.
 - 🌱 I’m constantly learning and diving deeper into **Machine Learning**, **TypeScript**, and modern **Full-Stack Architectures**.
@@ -45,7 +48,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Simaaqmoideen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Simaaqmoideen's GitHub stats" height="192px"/>
@@ -58,8 +61,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Simaaqmoideen&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
+<!-- Animated Snake Contribution Graph -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Simaaqmoideen/Simaaqmoideen/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Simaaqmoideen/Simaaqmoideen/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Simaaqmoideen/Simaaqmoideen/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
