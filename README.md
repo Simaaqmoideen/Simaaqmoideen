@@ -11,7 +11,9 @@
 ### 👨‍💻 About Me
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
+  <a href="https://github.com/Simaaqmoideen">
+    <img src="https://streak-stats.demolab.com?user=Simaaqmoideen&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </a>
 </div>
 <br>
 
