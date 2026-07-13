@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/7ymex/github-readme-quotes/main/quotes/programming/4.svg" width="100%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
 </div>
 <br>
 
@@ -51,8 +51,8 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Simaaqmoideen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Simaaqmoideen's GitHub stats" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simaaqmoideen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="192px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Simaaqmoideen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Simaaqmoideen's GitHub stats" height="192px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Simaaqmoideen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="192px"/>
 </div>
 
 <br/>
